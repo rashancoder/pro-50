@@ -1,0 +1,7 @@
+div{
+    display: flex;
+    justify-content: space-between;
+    color:rgb(190, 184, 184);
+    font-family: 'Times New Roman';
+    font-weight:600 ;
+}
